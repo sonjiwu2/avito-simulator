@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "stage": "reference-only",
+  "coreReady": false,
+  "fullReady": false,
+  "note": "Original concept references and production specifications are present. Runtime sprites, animation exports and a passing ART_HANDOFF do not exist yet."
+}

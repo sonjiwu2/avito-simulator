@@ -1,0 +1,35 @@
+# Dependencies and generated outputs
+node_modules/
+dist/
+coverage/
+playwright-report/
+test-results/
+*.log
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+
+# Local credentials and environment overrides
+.env
+.env.*
+!.env.example
+
+# Private agent instructions, skills, working memory and scratch
+.claude/
+.codex/
+.agents/
+.ai-work/
+AGENTS.md
+CLAUDE.md
+**/AGENTS.md
+**/CLAUDE.md
+*_PROMPT.md
+prompts/
+tmp/
+scratch/
+
+# Local editors
+.idea/
+.vscode/
